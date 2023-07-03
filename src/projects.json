@@ -1,0 +1,74 @@
+[
+    {
+      "id": 0,
+      "title": "Akıllı Şehirler Bilişim Sistemi",
+      "category": "Web",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p2.png",
+      "team": "Emre Yağcı",
+      "finished": true
+    },
+    {
+      "id": 1,
+      "title": "DataVizyon",
+      "category": "Web",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p1.png",
+      "team": "Umut Enes Akkoyun",
+      "finished": true
+    },
+    {
+      "id": 2,
+      "title": "Kültür Sanat App",
+      "category": "Mobil",
+      "imgURL":
+        "https://www.kultursanatkonya.com/_next/image?url=%2Flogo.png&w=1920&q=75",
+      "team": "Muazzez Aydın",
+      "finished": false
+    },
+    {
+      "id": 3,
+      "title": "Konya Büyükşehir Tiyatro App",
+      "category": "Mobil",
+      "imgURL":
+        "https://konyasehirtiyatrosu.com/_next/image?url=%2Flogo.png&w=1920&q=75",
+      "team": "Muhammet Yusuf Piroğlu",
+      "finished": true
+    },
+    {
+      "id": 4,
+      "title": "Sporcu Takip Analiz",
+      "category": "Web",
+      "imgURL":
+        "https://cf.kizlarsoruyor.com/q15635161/9eaaa650-c73c-4618-8782-bae554325920.jpg",
+      "team": "Umut Enes Akkoyun",
+      "finished": true
+    },
+    {
+      "id": 5,
+      "title": "Kaza Tespit Sistemi",
+      "category": "Web",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/kts.png",
+      "team": "Kadir Belkuyu",
+      "finished": true
+    },
+    {
+      "id": 6,
+      "title": "Konya Scope",
+      "category": "Web",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p4.png",
+      "team": "Hasan Kaan Kahraman",
+      "finished": false
+    },
+    {
+      "id": 7,
+      "title": "MetaDesign",
+      "category": "Metaverse",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/0.png",
+      "team": "Hasan Kaan Kahraman",
+      "finished": true
+    }
+  ]

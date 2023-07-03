@@ -1,0 +1,75 @@
+[
+    {
+      "id": 0,
+      "name": "Muhammet Yusuf Piroğlu",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p2.png",
+      "team": "Mobile",
+      "level": "GOD Level",
+      "number": "05303313131"
+    },
+    {
+      "id": 1,
+      "name": "Hasan Kaan Kahraman",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p2.png",
+      "team": "Mobile",
+      "level": "Devil Level",
+      "number": "05303313131"
+    },
+    {
+      "id": 3,
+      "name": "Kadir Belkuyu",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p2.png",
+      "team": "DevOPS",
+      "level": "GOD Level",
+      "number": "05303313131"
+    },
+    {
+      "id": 4,
+      "name": "Umut Enes Akkoyun",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p2.png",
+      "team": "WEB",
+      "level": "Angle Level",
+      "number": "05303313131"
+    },
+    {
+      "id": 5,
+      "name": "Muhammet Yusuf Piroğlu",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p2.png",
+      "team": "Mobile",
+      "level": "GOD Level",
+      "number": "05303313131"
+    },
+    {
+      "id": 6,
+      "name": "Hasan Kaan Kahraman",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p2.png",
+      "team": "Mobile",
+      "level": "Devil Level",
+      "number": "05303313131"
+    },
+    {
+      "id": 7,
+      "name": "Kadir Belkuyu",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p2.png",
+      "team": "DevOPS",
+      "level": "GOD Level",
+      "number": "05303313131"
+    },
+    {
+      "id": 8,
+      "name": "Umut Enes Akkoyun",
+      "imgURL":
+        "https://sehirteknolojileri.com/assets/img/projects/p2.png",
+      "team": "WEB",
+      "level": "Angle Level",
+      "number": "05303313131"
+    }
+    
+  ]
